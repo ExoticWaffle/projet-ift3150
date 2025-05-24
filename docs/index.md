@@ -24,6 +24,8 @@ Ce projet touche les domaines de science de données, apprentissage automatique 
 
 ### Problématique ou motivations
 
+ Ce projet nous permettra d’apprendre à bien faire le transfert de modèles entrainés dans un environnement simulé vers un robot réel.  Comme mentionné précédemment, cette transition n’est pas toujours facile à faire puisque les deux environnements sont différents ce qui fait en sorte que le robot n’agit pas toujours comme anticipé lorsqu’on fait le transfert.  Bien que la simulation existe depuis déjà plusieurs décennies, elle est une nécessité dans le domaine de la robotique de nos jours.  La simulation permet d’entrainer des modèles sur de plus grands ensembles de données, mais de façon potentiellement plus rapide, moins cher et en réduisant les risques ([MIT-Sim2Real_T-ASE.pdf](https://dspace.mit.edu/bitstream/handle/1721.1/138850/2021-04-Sim2Real_T-ASE.pdf?sequence=2)).  Il est donc crucial de savoir comment bien faire ce transfert en deux environnements nécessaires à la robotique.  De plus, ce projet nous apprendra également sur la généralisation en apprentissage.  Cette pratique permet de généraliser les modèles afin de les permettre de performer sur des robots de différents types sans connaitre tous les détails de l’hôte.  Cette technique est très utile et rend les modèles beaucoup plus polyvalents, mais la recette n’est pas donnée.  Il faut réussir à adapter le modèle sans savoir si les joints, les moteurs ou les différentes parties du robots seront les mêmes, on doit donc inférer des données et trouver des techniques permettant d’anticiper les variations sur le robot.
+
 ### Proposition et objectifs
 
 
