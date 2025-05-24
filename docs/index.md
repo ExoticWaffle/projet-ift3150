@@ -1,6 +1,6 @@
 # Projet IFT3150: Nom du projet
 
-> **Thèmes**: Science de données, Machine learning, Deep learning, Reinforment learning  
+> **Thèmes**: Science de données, Machine Learning, Deep Learning, Reinforment Learning, Robotique  
 > **Superviseur**: Glen Berseth  
 
 ## Informations importantes
@@ -19,6 +19,8 @@
 ## Description du projet
 
 ### Contexte
+
+Ce projet touche les domaines de science de données, apprentissage automatique (Machine Learning), apprentissage profond (Deep Learning), apprentissage par renforcement (Reinforcement Learning) ainsi que la robotique.  Dans le domaine de la robotique, ces différents types d'apprentissage sont très important afin de permette aux robots de s'adapter à différents scénarios.  En effet, il est très difficile sinon impossible de trouver des solutions déterministes aux situations de la vie courante.  Les robots doivent être capable de s'adapter à de nouvelles situations et c'est pour ces cas particuliers que l'apprentissage automatique et ses différents dérivés entrent en jeu.  Les récentes recherches montrent que l’utilisation de l’apprentissage profond ainsi que l’apprentissage par renforcement dans la robotique permettent d’accomplir plus que les anciennes méthodes déterministes ou les méthodes faisant usage de réseaux neuronaux peu profonds.  Cependant, le transfert de la simulation vers des environnements réels est toujours un défi puisque ces deux environnements peuvent être très différents en pratique.  Ces techniques d’apprentissage ainsi que le transfert de la simulation au réel (sim2real) sont des éléments clés au développement de robots pouvant être utilisés au quotidien.  En effet, cette réalité de côtoyer des robots au quotidien est de plus en plus partagée par tous.  En partant de l’automatisation de différents secteurs jusqu’à la surveillance ou même pour la livraison, les robots sont de plus en plus présents dans nos vies.  Enfin, la dernière considération pour notre projet est celle de la généralisation en apprentissage.  Ceci est un besoin grandissant dans le domaine de la robotique afin de rendre des robots ou des modèles plus polyvalents.
 
 ### Problématique ou motivations
 
