@@ -1,8 +1,7 @@
 # Projet IFT3150: Nom du projet
 
-> **Thèmes**: Science de données, Génie logiciel  
-> **Superviseur**: Nom du supervisuer  
-> **Collaborateurs:** Nom de(s) collaborateur(s) et partenaire(s)
+> **Thèmes**: Science de données, Machine learning, Deep learning, Reinforment learning  
+> **Superviseur**: Glen Berseth  
 
 ## Informations importantes
 
@@ -14,8 +13,8 @@
 
 ## Équipe
 
-- Alice Dupont: Responsable de...
-- Bob Tremblay: Responsable de...
+- Jacob Denault (20296116): Chercheur
+- Leo Tremblay: Chercheur
 
 ## Description du projet
 
